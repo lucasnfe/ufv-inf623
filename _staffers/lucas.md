@@ -1,9 +1,9 @@
 ---
-name: Kevin Lin
+name: Lucas N. Ferreira
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: lucas.n.ferreira@ufv.br
+website: https://www.lucasnferreira.com
+photo: lucas.jpg
 meta:
   Office Hours: Somewhere on the internet
 ---

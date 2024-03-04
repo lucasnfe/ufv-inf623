@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Announcements
-nav_exclude: true
+title: Avisos
+nav_exclude: false
 description: A feed containing all of the class announcements.
 ---
 
-# Announcements
+# Avisos
 
-Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
+Lista completa de avisos desde o começo da disciplina:
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}

@@ -1,8 +1,8 @@
 ---
-title: Week 0 Announcement
+title: 1ª Semana
 week: 0
 date: 2019-04-01
 ---
 
-Hello world!
+Sejam bem-vindos à INF623 - Inteligência Artificial!
 {: .fs-5 }
