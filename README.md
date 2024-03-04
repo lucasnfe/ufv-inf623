@@ -22,8 +22,6 @@ Esta disciplina apresenta as técnicas fundamentais para o projeto de sistemas c
 - Aulas
   - Terça: 14:00-15:40, CCE406
   - Quinta: 14:00-15:40, CCE402
-- Atendimento
-  - Terça-Quinta, 16:00-17:00, CCE401B
 
 ## Professor
 

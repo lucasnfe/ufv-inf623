@@ -5,7 +5,7 @@ email: lucas.n.ferreira@ufv.br
 website: https://www.lucasnferreira.com
 photo: lucas.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Atendimento: 16:00-17:00, CCE401B
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+<!-- [Schedule an appointment](#){: .btn .btn-outline } -->
