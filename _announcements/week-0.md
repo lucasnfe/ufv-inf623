@@ -4,5 +4,5 @@ week: 0
 date: 2019-04-01
 ---
 
-- As aulas foram alteradas para a sala CCE408 tanto nas terças quanto sextas.
+- As aulas foram alteradas para a sala CCE408 tanto nas terças quanto quintas.
 - Sejam bem-vindos à INF623 - Inteligência Artificial!
