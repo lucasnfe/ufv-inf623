@@ -4,5 +4,5 @@ week: 0
 date: 2019-04-01
 ---
 
-Sejam bem-vindos à INF623 - Inteligência Artificial!
-{: .fs-5 }
+- As aulas foram alteradas para a sala CCE408 tanto nas terças quanto sextas.
+- Sejam bem-vindos à INF623 - Inteligência Artificial!
