@@ -19,8 +19,8 @@ Esta disciplina apresenta as técnicas fundamentais para o projeto de sistemas c
 
 ## Ensalamento
 
-- Terça-feira: 14:00-15:40h, CCE406
-- Quinta-feira: 14:00-15:40h, CCE402
+- Aulas: Terças e Quintas: 14:00-15:40h, CCE408
+- Atendimendo: Terças e Quintas: 16:00-17:00h, CCE401B
 
 ## Professor
 

@@ -25,3 +25,11 @@ O objetivo desta disciplina é proporcionar aos alunos de pós-graduação em Ci
 8. Aprendizado de Máquina (18h)
 9. Aprendizado por Reforço (12h)
 
+## Políticas de Atraso
+
+- **Trabalhos práticos e Projeto Final**: 
+    - Penalização de 15% para cada dia de atraso
+    - Cada atraso pode ser de no máximo 2 dias 
+
+- **Provas**: 
+    - Caso precise faltar a uma prova, avise o professor com antecedência que agendar outra data
