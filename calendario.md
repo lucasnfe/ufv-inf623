@@ -17,7 +17,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <th>Semana</th>
     <th>Data</th>
     <th>Aula</th>
-    <th>Leituras</th>
+    <th>Leituras<br><a href="https://aima.cs.berkeley.edu/">(AIMA, 4th ed.)</a></th>
     <th>Projetos</th>
   </tr>
 
@@ -25,7 +25,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">1</td>
     <td>05/03</td>
-    <td>1. Introdução</td>
+    <td>1. Introdução<br><a href="{{ 'assets/slides/A01-introducao.pdf' | relative_url }}">slides</a></td>
     <td>Cap. 1, 2</td>
     <td></td>
   </tr>
