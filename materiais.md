@@ -22,6 +22,7 @@ description: The weekly event schedule.
 
 - [UC Berkley CS188 - Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html)
 - [MIT 6.034 - Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
+- [Harvard CS50 - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
 - [Cornell CS4780: Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/)
 - [Google DeepMind x UCL - Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
