@@ -31,7 +31,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>07/03</td>
-    <td>2. Busca no espaço de estados I<br><a href="{{ 'assets/slides/A02-busca-nao-informada.pdf' | relative_url }}">[slides]</a></td>
+    <td>2. Busca no espaço de estados I<br><a href="{{ 'assets/slides/A02-buscaI.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 3.1-3.4</td>
     <td></td>
   </tr>
