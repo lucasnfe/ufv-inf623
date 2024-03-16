@@ -107,7 +107,7 @@ Após concluir a implementação dos algoritmos de busca, você irá criar casos
 - A* é melhor que UCS
 - A* é equivalente à UCS
 
-Compare o desempenho dos algoritmos em relação ao número de nós visitados e custo e tamanho do caminho retornado (esses valores são impressos no terminal pelo servidor após a execução da busca).
+Compare o desempenho dos algoritmos em relação ao número de nós visitados, custo e tamanho do caminho retornado (esses valores são impressos no terminal pelo servidor após a execução da busca). Nos mapas de teste dos algoritmos de busca informada, discuta o impacto das diferentes heurísticas no desempenho dos algoritmos.
 
 ## Submissão
 
