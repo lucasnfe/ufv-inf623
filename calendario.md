@@ -42,7 +42,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>12/03</td>
     <td>3. Busca no espaço de estados II<br><a href="{{ 'assets/slides/A03-buscaII.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 3.5-3.6</td>
-    <td rowspan="4">TP1: Busca no espaço de estados</td>
+    <td rowspan="4"><a href="{{ site.url }}/assignments/tp1-busca">TP1: Busca no espaço de estados</a></td>
   </tr>
   <tr>
     <td>14/03</td>
