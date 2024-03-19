@@ -31,7 +31,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>07/03</td>
-    <td>2. Busca no espaço de estados I<br><a href="{{ 'assets/slides/A02-buscaI.pdf' | relative_url }}">[slides]</a></td>
+    <td>2. Busca no espaço de estados I<br><a href="{{ 'assets/slides/A02-busca-estados1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 3.1-3.4</td>
     <td></td>
   </tr>
@@ -40,13 +40,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">2</td>
     <td>12/03</td>
-    <td>3. Busca no espaço de estados II<br><a href="{{ 'assets/slides/A03-buscaII.pdf' | relative_url }}">[slides]</a></td>
+    <td>3. Busca no espaço de estados II<br><a href="{{ 'assets/slides/A03-busca-estados2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 3.5-3.6</td>
     <td rowspan="4"><a href="{{ site.url }}/assignments/tp1-busca">TP1: Busca no espaço de estados</a></td>
   </tr>
   <tr>
     <td>14/03</td>
-    <td>4. Busca local e otimização I: subida de encosta, têmpera simulada e busca em feixe</td>
+    <td>4. Busca local e otimização I<br><a href="{{ 'assets/slides/A04-busca-local1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 4.1</td>
   </tr>
 
