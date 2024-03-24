@@ -65,19 +65,122 @@ Após concluir a etapa anterior, você pode dar início à implementação dos a
 
 Para implementar a busca em largura, você deve criar a função `bfs(s, g, level, adj)`, que recebe como parâmetros o estado inicial `s`, o estado final `g`, o mapa representado pelo dicionário `level` e a função de transição `adj`. A função `bfs` deve retornar uma lista `path` com o caminho entre `s` e `g` encontrado pela busca em largura e um dicionário `visited` contendo todos os estados visitados durante o processo. Se o problema não tiver solução, o caminho retornado deve ser uma lista vazia, mas o dicionário `visited` ainda conterá todos os nós visitados até a parada do algoritmo. O resultado esperado para os mapas 1, 3 e 7 são os seguintes:
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
+    <h3>Mapa 1</h3>
     <img style="padding: 5px;" src="/assets/images/tp1/bfs1.png" alt="" width="300"/>
+    <h3>Mapa 3</h3>
     <img style="padding: 5px;" src="/assets/images/tp1/bfs3.png" alt="" width="300"/>
+    <h3>Mapa 7</h3>
     <img style="padding: 5px;" src="/assets/images/tp1/bfs7.png" alt="" width="300"/>
 </div>
+
+<table> -->
+<table>
+    <tr>
+        <td></td>
+        <td><h4>Mapa 1</h4></td>
+        <td><h4>Mapa 3</h4></td>
+        <td><h4>Mapa 7</h4></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><img src="/assets/images/tp1/bfs1.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/bfs3.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/bfs7.png" alt="" width="300"/></td>
+    </tr>
+    <tr>
+        <td><h4>Visitados</h4></td>
+        <td>434</td>
+        <td>658</td>
+        <td>296</td>
+    </tr>
+    <tr>
+        <td><h4>Tamanho</h4></td>
+        <td>31</td>
+        <td>44</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td><h4>Custo</h4></td>
+        <td>35.38</td>
+        <td>46.31</td>
+        <td>31.11</td>
+    </tr>
+</table>
 
 #### 2.2 Busca em profundidade
 
 A implementação da busca em profundidade é muito similar à da busca em largura. A única diferença é que na busca em profundidade, a fronteira é implementada como uma pilha (LIFO), ao invés de uma fila (FIFO). O resultado esperado para os mapas 1, 3 e 7 são os seguintes:
 
+<table>
+    <tr>
+        <td></td>
+        <td><h4>Mapa 1</h4></td>
+        <td><h4>Mapa 3</h4></td>
+        <td><h4>Mapa 7</h4></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><img src="/assets/images/tp1/dfs1.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/dfs3.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/dfs7.png" alt="" width="300"/></td>
+    </tr>
+    <tr>
+        <td><h4>Visitados</h4></td>
+        <td>98</td>
+        <td>677</td>
+        <td>234</td>
+    </tr>
+    <tr>
+        <td><h4>Tamanho</h4></td>
+        <td>31</td>
+        <td>340</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td><h4>Custo</h4></td>
+        <td>35.38</td>
+        <td>351.42</td>
+        <td>131.32</td>
+    </tr>
+</table>
+
 #### 2.3 Busca de custo uniforme 
 
 A implementação da busca de custo uniforme também é muito similar à da busca em largura. A diferença é que na busca de custo uniforme, a fronteira é implementada como uma fila de prioridades (heap), onde as prioridades dos nós são dadas pelo custo de seus caminhos até a raiz. O Python possui o módulo `heapq` que já foi importado para você criar e manipular a fila de prioridade. Além disso, um estado já visitado pode ser adicionado novamente na fronteira caso o custo de seu caminho atual seja menor do que o custo do caminho encontrado até agora. O resultado esperado para os mapas 1, 3 e 7 são os seguintes:
+
+<table>
+    <tr>
+        <td></td>
+        <td><h4>Mapa 1</h4></td>
+        <td><h4>Mapa 3</h4></td>
+        <td><h4>Mapa 7</h4></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><img src="/assets/images/tp1/ucs1.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/ucs3.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/ucs7.png" alt="" width="300"/></td>
+    </tr>
+    <tr>
+        <td><h4>Visitados</h4></td>
+        <td>434</td>
+        <td>607</td>
+        <td>328</td>
+    </tr>
+    <tr>
+        <td><h4>Tamanho</h4></td>
+        <td>31</td>
+        <td>44</td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td><h4>Custo</h4></td>
+        <td>35.38</td>
+        <td>44.65</td>
+        <td>15.65</td>
+    </tr>
+</table>
 
 ### 3. Busca informada
 
@@ -89,11 +192,78 @@ O primeiro passo consiste em implementar as funções heurísticas de distância
 
 #### 3.2 Busca gulosa por melhor escolha
 
-O primeiro algoritmo de busca informada que você irá implementar é a busca gulosa por melhor escolha. Assim como os algoritmos de busca não informada, este também será muito similar à implementação da busca em largura. A diferença é que a fronteira é implementada como uma fila de prioridades (heap), onde a prioridade de um nó `s` é dada pela função heurística `h(s, g)`. O resultado esperado para os mapas 1, 3 e 7 são os seguintes:
+O primeiro algoritmo de busca informada que você irá implementar é a busca gulosa por melhor escolha. Assim como os algoritmos de busca não informada, este também será muito similar à implementação da busca em largura. A diferença é que a fronteira é implementada como uma fila de prioridades (heap), onde a prioridade de um nó `s` é dada pela função heurística `h(s, g)`. O resultado esperado para os mapas 1, 3 e 7 com a heurística de distância euclidiana são os seguintes:
+
+<table>
+    <tr>
+        <td></td>
+        <td><h4>Mapa 1</h4></td>
+        <td><h4>Mapa 3</h4></td>
+        <td><h4>Mapa 7</h4></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><img src="/assets/images/tp1/greedy1.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/greedy3.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/greedy7.png" alt="" width="300"/></td>
+    </tr>
+    <tr>
+        <td><h4>Visitados</h4></td>
+        <td>98</td>
+        <td>454</td>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td><h4>Tamanho</h4></td>
+        <td>31</td>
+        <td>50</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td><h4>Custo</h4></td>
+        <td>35.38</td>
+        <td>54.79</td>
+        <td>22.0</td>
+    </tr>
+</table>
 
 #### 3.3 Algoritmo A*
 
-O segundo algoritmo é o A*, que combina a busca gulosa por melhor escolha e por custo uniforme. Dessa forma, a fronteira também é implementada como uma fila de prioridades (heap), porém a prioridade de um nó `s` é dada pela soma `g(s) + h(s, g)`, da função heurística `h(s, g)` com o custo `g(s)` do melhor caminho encontrado até agora para `s`. Além disso, assim como na busca por custo uniforme, um estado já visitado pode ser adicionado novamente na fronteira caso o custo de seu caminho atual seja menor do que o custo do caminho encontrado até agora.
+O segundo algoritmo é o A*, que combina a busca gulosa por melhor escolha e por custo uniforme. Dessa forma, a fronteira também é implementada como uma fila de prioridades (heap), porém a prioridade de um nó `s` é dada pela soma `g(s) + h(s, g)`, da função heurística `h(s, g)` com o custo `g(s)` do melhor caminho encontrado até agora para `s`. Além disso, assim como na busca por custo uniforme, um estado já visitado pode ser adicionado novamente na fronteira caso o custo de seu caminho atual seja menor do que o custo do caminho encontrado até agora. O resultado esperado para os mapas 1, 3 e 7 com a heurística de distância euclidiana são os seguintes:
+
+
+<table>
+    <tr>
+        <td></td>
+        <td><h4>Mapa 1</h4></td>
+        <td><h4>Mapa 3</h4></td>
+        <td><h4>Mapa 7</h4></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><img src="/assets/images/tp1/a_star1.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/a_star3.png" alt="" width="300"/></td>
+        <td><img src="/assets/images/tp1/a_star7.png" alt="" width="300"/></td>
+    </tr>
+    <tr>
+        <td><h4>Visitados</h4></td>
+        <td>319</td>
+        <td>582</td>
+        <td>165</td>
+    </tr>
+    <tr>
+        <td><h4>Tamanho</h4></td>
+        <td>31</td>
+        <td>44</td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td><h4>Custo</h4></td>
+        <td>35.38</td>
+        <td>44.65</td>
+        <td>15.65</td>
+    </tr>
+</table>
 
 ### 4. Relatório
 
@@ -107,7 +277,7 @@ Após concluir a implementação dos algoritmos de busca, você irá criar casos
 - A* é melhor que UCS
 - A* é equivalente à UCS
 
-Compare o desempenho dos algoritmos em relação ao número de nós visitados, custo e tamanho do caminho retornado (esses valores são impressos no terminal pelo servidor após a execução da busca). Nos mapas de teste dos algoritmos de busca informada, discuta o impacto das diferentes heurísticas no desempenho dos algoritmos.
+Compare o desempenho dos algoritmos em relação ao número de nós visitados, custo e tamanho do caminho retornado (esses valores são impressos no terminal pelo servidor após a execução da busca). Nos mapas de teste dos algoritmos de busca informada, discuta o impacto das diferentes heurísticas no desempenho dos algoritmos. O seu relatório deve conter no máximo 3 páginas no formato da [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/authorkit24-2/) (disponível também no [Overleaf](https://www.overleaf.com/latex/templates/aaai-2023-author-kit/wxnmhzcrjbpc)).
 
 ## Submissão
 
