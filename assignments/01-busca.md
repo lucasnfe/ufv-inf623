@@ -277,7 +277,7 @@ Após concluir a implementação dos algoritmos de busca, você irá criar casos
 - A* é melhor que UCS
 - A* é equivalente à UCS
 
-Compare o desempenho dos algoritmos em relação ao número de nós visitados, custo e tamanho do caminho retornado (esses valores são impressos no terminal pelo servidor após a execução da busca). Nos mapas de teste dos algoritmos de busca informada, discuta o impacto das diferentes heurísticas no desempenho dos algoritmos. O seu relatório deve conter no máximo 3 páginas no formato da [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/authorkit24-2/) (disponível também no [Overleaf](https://www.overleaf.com/latex/templates/aaai-2023-author-kit/wxnmhzcrjbpc)).
+Compare o desempenho dos algoritmos em relação ao número de nós visitados, custo e tamanho do caminho retornado (esses valores são impressos no terminal pelo servidor após a execução da busca). Nos mapas de teste dos algoritmos de busca informada, discuta o impacto das diferentes heurísticas no desempenho dos algoritmos. O seu relatório deve conter no máximo 2 páginas no formato da [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/authorkit24-2/) (disponível também no [Overleaf](https://www.overleaf.com/latex/templates/aaai-2023-author-kit/wxnmhzcrjbpc)).
 
 ## Submissão
 
