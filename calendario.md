@@ -59,7 +59,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>21/03</td>
-    <td>6. Busca competitiva I: minimax, poda alpha-beta e funções de utilidade</td>
+    <td>6. Busca competitiva I<br><a href="{{ 'assets/slides/A06-busca-adversarial1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 5.1-5.3</td>
   </tr>
 
