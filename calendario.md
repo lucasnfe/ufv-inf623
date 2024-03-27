@@ -42,7 +42,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>12/03</td>
     <td>3. Busca no espaço de estados II<br><a href="{{ 'assets/slides/A03-busca-estados2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 3.5-3.6</td>
-    <td rowspan="4"><a href="{{ site.url }}/assignments/tp1-busca">TP1: Busca no espaço de estados</a></td>
+    <td rowspan="5"><a href="{{ site.url }}/assignments/tp1-busca">TP1: Busca no espaço de estados</a></td>
   </tr>
   <tr>
     <td>14/03</td>
@@ -67,14 +67,14 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">4</td>
     <td>26/03</td>
-    <td>7. Busca competitiva II: busca em árvore monte carlo</td>
+    <td>7. Busca competitiva II<br><a href="{{ 'assets/slides/A07-busca-adversarial2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 5.4</td>
-    <td rowspan="6">TP2: Busca local</td>
   </tr>
   <tr>
     <td>28/03</td>
-    <td>8. Busca competitiva III: jogos estocásticos e parcialmente observáveis</td>
+    <td>8. Busca competitiva III</td>
     <td>Cap. 5.5-5.6</td>
+    <td rowspan="5">TP2: Busca local</td>
   </tr>
 
   <!-- Semana 6 -->
