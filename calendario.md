@@ -54,7 +54,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">3</td>
     <td>19/03</td>
-    <td>5. Busca local e otimização II</td>
+    <td>5. Busca local e otimização II<br><a href="{{ 'assets/slides/A05-busca-local2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 4.2</td>
   </tr>
   <tr>
