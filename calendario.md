@@ -82,7 +82,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">5</td>
     <td>02/04</td>
     <td>8. Busca competitiva III<br><a href="{{ 'assets/slides/A08-busca-adversarial3.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 5.5-5.6</td>
+    <td>Cap. 5.5</td>
   </tr>
   <tr>
     <td>04/04</td>
