@@ -15,7 +15,7 @@ No [projeto anterior](/assignments/tp1-busca), você implementou diferentes algo
 
 ### Executar servidor
 
-Clique [aqui](/assets/code/tp2-busca-local.zip) para baixar o código-base, que inclui um cliente em JavaScript para configurar os parâmetros do algoritmo, definir estados iniciais e finais, iniciar a busca e salvar os mapas gerados. Além disso, o código também contém um servidor em Python para implementar e executar os algoritmos de busca. Para executar o servidor, você precisará instalar as dependências do projeto e iniciar o servidor com os seguintes comandos:
+Clique [aqui](/assets/code/tp2-busca-local.zip) para baixar o código-base, que inclui um cliente em JavaScript para configurar os parâmetros do algoritmo, definir estados iniciais e finais, iniciar a busca e salvar os mapas gerados. Além disso, o código também contém um servidor em Python para implementar e executar o algoritmo genético. Para executar o servidor, você precisará instalar as dependências do projeto e iniciar o servidor com os seguintes comandos:
 
 ```
 pip install -r requirements.txt # Instalar dependencias
@@ -26,7 +26,7 @@ Assim que o servidor iniciar, você pode abrir o seguinte endereço em qualquer 
 
 ## Tarefas
 
-Antes de iniciar as tarefas, estude com cuidado as classes `Individual` e `GeneticAlgorithm`, as quais você irá utilizar como base para implementar o seu algoritmo genético.
+Antes de iniciar as tarefas, estude as classes `Individual` e `GeneticAlgorithm`, as quais você irá utilizar como base para implementar o seu algoritmo genético.
 
 ### 1. Representação dos indivíduos
 
