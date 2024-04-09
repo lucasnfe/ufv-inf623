@@ -20,7 +20,7 @@ As provas são não-cumulativas (i.e., os conteúdos não tem sobreposição) e 
 Implementação individual em Python de algoritmos de inteligência artificial para problemas clássicos, com duração de 1-2 semanas.
 
 - [TP1: Busca no espaço de estados](/assignments/tp1-busca)
-- TP2: Busca local
+- [TP2: Busca local](/assignments/tp2-busca-local)
 - TP3: Aprendizado por reforço
 - TP4: Aprendizado de máquina
 

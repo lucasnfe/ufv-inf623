@@ -74,7 +74,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>28/03</td>
     <td><b>Feriado (Semana Santa)</b></td>
     <td></td>
-    <td rowspan="5">TP2: Busca local</td>
+    <td rowspan="5"><a href="{{ site.url }}/assignments/tp2-busca-local">TP2: Busca local</a></td>
   </tr>
 
   <!-- Semana 6 -->
