@@ -94,7 +94,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">6</td>
     <td>09/04</td>
-    <td>10. Satisfação de Restrição II</td>
+    <td>10. Satisfação de Restrição II<br><a href="{{ 'assets/slides/A10-csp2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 6.3-6.5</td>
   </tr>
   <tr>
