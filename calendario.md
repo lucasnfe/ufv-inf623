@@ -74,7 +74,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>28/03</td>
     <td><b>Feriado (Semana Santa)</b></td>
     <td></td>
-    <td rowspan="5"><a href="{{ site.url }}/assignments/tp2-busca-local">TP2: Busca local</a></td>
+    <td></td>
   </tr>
 
   <!-- Semana 6 -->
@@ -83,19 +83,22 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>02/04</td>
     <td>8. Busca competitiva III<br><a href="{{ 'assets/slides/A08-busca-adversarial3.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 5.5</td>
+    <td></td>
   </tr>
   <tr>
     <td>04/04</td>
-    <td>9. Satisfação de Restrição I<br><a href="{{ 'assets/slides/A09-csp1.pdf' | relative_url }}">[slides]</a></td>
+    <td>9. Satisfação de restrição I<br><a href="{{ 'assets/slides/A09-csp1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 6.1-6.2</td>
+    <td></td>
   </tr>
 
   <!-- Semana 7 -->
   <tr>
     <td rowspan="2">6</td>
     <td>09/04</td>
-    <td>10. Satisfação de Restrição II<br><a href="{{ 'assets/slides/A10-csp2.pdf' | relative_url }}">[slides]</a></td>
+    <td>10. Satisfação de restrição II<br><a href="{{ 'assets/slides/A10-csp2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 6.3-6.5</td>
+    <td rowspan="6"><a href="{{ site.url }}/assignments/tp2-busca-local">TP2: Busca local</a></td>
   </tr>
   <tr>
     <td>11/04</td>
@@ -107,13 +110,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">7</td>
     <td>16/04</td>
-    <td>11. Agentes lógicos I: lógica proposicional</td>
+    <td>11. Representação do conhecimento I<br><a href="{{ 'assets/slides/A11-conhecimento1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 7.1-7.4</td>
-    <td rowspan="2">R1: Identificação de problema</td>
   </tr>
   <tr>
     <td>18/04</td>
-    <td>12. Agentes lógicos II: inferência lógica, prova de teorema, satisfatibilidade booleana</td>
+    <td>12. Representação do conhecimento II</td>
     <td>Cap. 7.5-7.7, 8.1-8.2</td>
   </tr>  
 
@@ -121,9 +123,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">8</td>
     <td>23/04</td>
-    <td>13. Agentes lógicos III: lógica de primeira ordem</td>
+    <td>13. Representação do conhecimento III</td>
     <td>Cap 8.3-8.4</td>
-    <td rowspan="6">R2: Revisão da literatura</td>
   </tr>
   <tr>
     <td>25/04</td>
@@ -137,6 +138,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>30/04</td>
     <td>15. Raciocínio Probabilístico II: redes bayesianas</td>
     <td>Cap. 13.1-13.4</td>
+    <td rowspan="2">R1: Identificação de problema</td>
   </tr>
   <tr>
     <td>02/05</td>
@@ -150,6 +152,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>07/05</td>
     <td>17. Processos de decisão de Markov II</td>
     <td>Cap. 17.3-17.4</td>
+    <td rowspan="2">R2: Revisão da literatura</td>
   </tr>
   <tr>
     <td>09/05</td>
