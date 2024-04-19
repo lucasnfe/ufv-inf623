@@ -96,7 +96,7 @@ Após concluir a implementação do algoritmo genético, você irá analisar o s
     - P = 200, G = 500, T = 15
     - P = 200, G = 1000, T = 20
 
-O seu relatório deve conter no máximo 2 páginas no formato da [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/authorkit24-2/) (disponível também no [Overleaf](https://www.overleaf.com/latex/templates/aaai-2023-author-kit/wxnmhzcrjbpc)). Cada variação de parâmetros gerará uma curva, ou seja, serão 12 gráficos no total. Agrupe essas gráficos em 3 imagens por tipo de parâmetro, onde cada imagem conterá 4 gráficos.
+O seu relatório deve conter no máximo 2 páginas no formato da [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/authorkit24-2/) (disponível também no [Overleaf](https://www.overleaf.com/latex/templates/aaai-2023-author-kit/wxnmhzcrjbpc)). Cada variação de parâmetros gerará uma curva, ou seja, serão 12 gráficos no total. Agrupe essas gráficos em 3 imagens por tipo de parâmetro, onde cada imagem conterá 4 gráficos. Inclua também 3 mapas no seu relatório, uma para cada grupo de experimentos, ilustrando o melhor indivíduo encontrado dentre todas as variações daquele grupo. Discuta as características desse mapa. 
 
 ## Submissão
 
