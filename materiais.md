@@ -15,7 +15,7 @@ description: The weekly event schedule.
 ### Complementar
 
 - [Reinforcement Learning: An Introduction, 2nd edition, by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/the-book-2nd.html)
-- [Machine Learning: a Probabilistic Perspective, 1st edition, by Kevin P. Murphy](https://probml.github.io/pml-book/book0.html)
+- [Machine Learning: A Probabilistic Perspective, 1st edition, by Kevin P. Murphy](https://probml.github.io/pml-book/book0.html)
 - [Machine Learning: An Algorithmic Perspective, 2nd edition, by Stephen Marsland](https://homepages.ecs.vuw.ac.nz/~marslast/MLbook.html)
 
 ## Disciplinas Relacionadas
