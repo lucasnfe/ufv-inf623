@@ -71,7 +71,7 @@ Ao final dessa etapa, você deveria conseguir executar seu algoritmo genético n
 
 ### 7. Estética dos mapas
 
-As etapas anteriores definem um algoritmo genético que maximiza o caminho entre os estados de origem e destino. Nessa última etapa de implementação, você irá modificar a sua função de adaptação `Individual.fitness` para dirigir a estética dos mapas gerados. Para isso, você terá que definir a estética que deseja que seus mapas tenham e codifica-lá matematicamente de tal forma que possa ser incorporada na função de adaptação. Algumas ideias simples:
+As fases anteriores delineiam um algoritmo genético voltado para a maximização do percurso entre os estados de origem e destino. Neste estágio final de implementação, você será encarregado de ampliar a funcionalidade da sua função de adaptação `Individual.fitness` para também influenciar a estética dos mapas produzidos. *A alteração deve manter a avaliação com base no percurso*, ou seja, você irá integrar novos termos à sua função original para orientar as características estéticas do mapa. Para realizar isso, será necessário definir a estética desejada para seus mapas e codificá-la matematicamente de modo que possa ser incorporada à função de adaptação. Algumas ideias simples:
 
 - Simetria vertical, horizontal, diagonal ou completa
 - ...  
