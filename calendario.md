@@ -115,7 +115,10 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>18/04</td>
-    <td>12. Representação do conhecimento II</td>
+    <td>12. Representação do conhecimento II<br>
+      <a href="{{ 'assets/slides/A12-conhecimento2.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ 'assets/code/A12-conhecimento2.zip' | relative_url }}">[código]</a>
+    </td>
     <td>Cap. 7.5-7.7, 8.1-8.2</td>
   </tr>  
 
@@ -123,7 +126,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">8</td>
     <td>23/04</td>
-    <td>13. Representação do conhecimento III</td>
+    <td>13. Representação do conhecimento III<br><a href="{{ 'assets/slides/A13-conhecimento3.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap 8.3-8.4</td>
   </tr>
   <tr>
