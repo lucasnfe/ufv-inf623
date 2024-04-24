@@ -26,13 +26,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">1</td>
     <td>05/03</td>
     <td>1. Introdução<br><a href="{{ 'assets/slides/A01-introducao.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 1, 2</td>
+    <td>Caps. 1 e 2</td>
     <td></td>
   </tr>
   <tr>
     <td>07/03</td>
     <td>2. Busca no espaço de estados I<br><a href="{{ 'assets/slides/A02-busca-estados1.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 3.1-3.4</td>
+    <td>Cap. 3.1-3.4.3</td>
     <td></td>
   </tr>
 
@@ -41,13 +41,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">2</td>
     <td>12/03</td>
     <td>3. Busca no espaço de estados II<br><a href="{{ 'assets/slides/A03-busca-estados2.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 3.5-3.6</td>
+    <td>Cap. 3.5-3.5.4</td>
     <td rowspan="5"><a href="{{ site.url }}/assignments/tp1-busca">TP1: Busca no espaço de estados</a></td>
   </tr>
   <tr>
     <td>14/03</td>
     <td>4. Busca local e otimização I<br><a href="{{ 'assets/slides/A04-busca-local1.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 4.1</td>
+    <td>Cap. 4.1-4.1.3</td>
   </tr>
 
   <!-- Semana 3 -->
@@ -55,7 +55,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">3</td>
     <td>19/03</td>
     <td>5. Busca local e otimização II<br><a href="{{ 'assets/slides/A05-busca-local2.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 4.2</td>
+    <td>Cap. 4.1.4</td>
   </tr>
   <tr>
     <td>21/03</td>
@@ -68,7 +68,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">4</td>
     <td>26/03</td>
     <td>7. Busca competitiva II<br><a href="{{ 'assets/slides/A07-busca-adversarial2.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 5.4</td>
+    <td>Cap. 5.5</td>
   </tr>
   <tr>
     <td>28/03</td>
@@ -82,13 +82,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">5</td>
     <td>02/04</td>
     <td>8. Busca competitiva III<br><a href="{{ 'assets/slides/A08-busca-adversarial3.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 5.5</td>
+    <td>Cap. 5.4</td>
     <td></td>
   </tr>
   <tr>
     <td>04/04</td>
     <td>9. Satisfação de restrição I<br><a href="{{ 'assets/slides/A09-csp1.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 6.1-6.2</td>
+    <td>Cap. 6.1</td>
     <td></td>
   </tr>
 
@@ -97,7 +97,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">6</td>
     <td>09/04</td>
     <td>10. Satisfação de restrição II<br><a href="{{ 'assets/slides/A10-csp2.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 6.3-6.5</td>
+    <td>Cap. 6.2-6.3</td>
     <td rowspan="6"><a href="{{ site.url }}/assignments/tp2-busca-local">TP2: Busca local</a></td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
       <a href="{{ 'assets/slides/A12-conhecimento2.pdf' | relative_url }}">[slides]</a>
       <a href="{{ 'assets/code/A12-conhecimento.zip' | relative_url }}">[código]</a>
     </td>
-    <td>Cap. 7.5-7.7, 8.1-8.2</td>
+    <td>Cap. 7.7</td>
   </tr>  
 
   <!-- Semana 9 -->
@@ -127,7 +127,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">8</td>
     <td>23/04</td>
     <td>13. Representação do conhecimento III<br><a href="{{ 'assets/slides/A13-conhecimento3.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap 8.3-8.4</td>
+    <td>Cap 7.5</td>
   </tr>
   <tr>
     <td>25/04</td>
