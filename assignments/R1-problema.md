@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Introdução
 
-Como requisito do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da UFV, você terá que escrever um projeto de pesquisa. Nessa disciplina, você terá a oportunidade de começar esse projeto, avançando principalmente no seu referencial terórico e proposta de metologia. Nessa primeira etapa, você irá apresentar uma visão geral do seu projeto de pesquisa, introduzindo o problema que pretende trabalhar, bem como suas principais motivações, objetivos e justificativas. Além disso, você deve incluir uma lista de 5-8 artigos que apresentem trabalhos diretamente relacionados com a sua proposta. 
+Como requisito do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da UFV, você terá que escrever um projeto de pesquisa que será submetido para a coordenação do programa. Nessa disciplina, você terá a oportunidade de começar esse projeto, avançando principalmente no seu referencial terórico e proposta de metologia. Nessa primeira etapa, você irá apresentar uma visão geral do seu projeto de pesquisa, introduzindo o problema que pretende trabalhar em Inteligência Artificial, bem como suas principais motivações, objetivos e justificativas. Além disso, você deve incluir uma lista de 5-8 artigos que apresentem trabalhos diretamente relacionados com a sua proposta. 
 
 ## Tarefas
 
