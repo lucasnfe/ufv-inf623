@@ -28,7 +28,7 @@ Implementação individual em Python de algoritmos de inteligência artificial p
 
 Escrita de um projeto de pesquisa com contribuições que avancem o estado da arte de inteligência artificial. As entregas serão dividas em quatro etapas:
 
-- R1: Identificação de problema
+- [R1: Identificação de problema](/assignments/r1-problema)
 - R2: Revisão da literatura
 - R3: Proposta de metodologia 
 - R4: Introdução do projeto
