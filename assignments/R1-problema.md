@@ -29,7 +29,7 @@ Nessa seção, você deve justificar a necessidade do seu projeto, explicando po
 
 ## Submissão
 
-Para enviar o seu trabalho, submeta o seu relatório `relatorio.pdf` (em formato pdf) na tarefa **R1 - Identificação de problema** no PVANet.
+Para enviar o seu trabalho, submeta um arquivo `.zip` contendo o seu relatório `relatorio.pdf` (em formato pdf) e os 5-8 trabalhos relacionados (em formato pdf) na tarefa **R1 - Identificação de problema** no PVANet.
 
 ## Referências
 
