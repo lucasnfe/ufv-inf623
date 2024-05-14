@@ -131,21 +131,21 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>25/04</td>
-    <td>14. Raciocínio Probabilístico I: intro. à probabilidade</td>
-    <td>Cap 12.1-12.5</td>
+    <td>14. Raciocínio Probabilístico I<br><a href="{{ 'assets/slides/A14-incerteza1.pdf' | relative_url }}">[slides]</a></td>
+    <td>Cap 12.1-12.5</td>  
   </tr>  
 
   <!-- Semana 10 -->
   <tr>
     <td rowspan="2">9</td>
     <td>30/04</td>
-    <td>15. Raciocínio Probabilístico II: redes bayesianas</td>
+    <td>15. Raciocínio Probabilístico II</td>
     <td>Cap. 13.1-13.4</td>
     <td rowspan="2">R1: Identificação de problema</td>
   </tr>
   <tr>
     <td>02/05</td>
-    <td>16. Raciocínio Probabilístico III: modelos de Markov</td>
+    <td>16. Raciocínio Probabilístico III<br><a href="{{ 'assets/slides/A16-incerteza3.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 14.1-14.5</td>
   </tr>  
 
@@ -153,13 +153,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">10</td>
     <td>07/05</td>
-    <td>17. Processos de decisão de Markov II</td>
+    <td>17. Raciocínio Probabilístico IV<br><a href="{{ 'assets/slides/A17-incerteza4.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 17.3-17.4</td>
     <td rowspan="2">R2: Revisão da literatura</td>
   </tr>
   <tr>
     <td>09/05</td>
-    <td>18. Processos de decisão de Markov II</td>
+    <td>18. Processos de decisão de Markov I<br><a href="{{ 'assets/slides/A18-mdp1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 17.3-17.4</td>
   </tr>  
 
@@ -167,13 +167,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">11</td>
     <td>14/05</td>
-    <td>19. Aprendizado por Reforço I</td>
+    <td>19. Processos de decisão de Markov II<br><a href="{{ 'assets/slides/A19-mdp2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 22.1-22.4</td>
     <td rowspan="5">TP3: Aprendizado por reforço</td>
   </tr>
   <tr>
     <td>16/05</td>
-    <td>20. Aprendizado por Reforço II</td>
+    <td>20. Processos de decisão de Markov III</td>
     <td>Cap. 22.5-22.7</td>
   </tr>  
 
@@ -186,7 +186,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>23/05</td>
-    <td>21. Aprendizado de Máquina I: introdução e árvores de decisão</td>
+    <td>21. Aprendizado por Reforço I</td>
     <td>Cap. 19.1-19.4</td>
   </tr>  
 
@@ -194,7 +194,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">13</td>
     <td>28/05</td>
-    <td>22. Aprendizado de Máquina II: regressão linear e logística</td>
+    <td>22. Aprendizado de Máquina I</td>
     <td>Cap. 19.1-19.6</td>
   </tr>
   <tr>
@@ -208,12 +208,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">14</td>
     <td>04/06</td>
-    <td>23. Aprendizado de Máquina III: kNN</td>
+    <td>23. Aprendizado de Máquina II</td>
     <td>Cap. 19.7.1 - 19.7.4</td>
   </tr>
   <tr>
     <td>06/06</td>
-    <td>24. Aprendizado de Máquina IV: máquinas de vetores de suporte</td>
+    <td>24. Aprendizado de Máquina III</td>
     <td>Cap. 19.7.5 - 19.7.6</td>
   </tr>  
 
@@ -221,12 +221,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">15</td>
     <td>11/06</td>
-    <td>25. Aprendizado de Máquina V: emsemble learning</td>
+    <td>25. Aprendizado de Máquina IV</td>
     <td>Cal. 19.8</td>
   </tr>
   <tr>
     <td>13/06</td>
-    <td>26. Aprendizado de Máquina VI: Deep Learning I</td>
+    <td>26. Aprendizado de Máquina V</td>
     <td>Cap.  21.1-21.2</td>
     <td rowspan="2">R3: Metodologia de pesquisa</td>
   </tr>  
@@ -235,12 +235,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">16</td>
     <td>18/06</td>
-    <td>27. Aprendizado de Máquina VII: Deep Learning II</td>
+    <td>27. Aprendizado de Máquina VI</td>
     <td>Cap. 21.3, 21.6</td>
   </tr>
   <tr>
     <td>20/06</td>
-    <td>28. Aprendizado de Máquina VIII: Aprendizado não-supervisionado</td>
+    <td>28. Aprendizado de Máquina VII</td>
     <td>Cap. 21.7</td>
     <td rowspan="3">R4: Introdução do projeto</td>
   </tr>  
