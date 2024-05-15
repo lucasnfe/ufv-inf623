@@ -103,7 +103,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td>11/04</td>
     <td><b>Prova 1</b></td>
-    <td></td>
+    <td><a href="{{ 'assets/homework/lista1.pdf' | relative_url }}">[Lista 1]</a></td>
   </tr>
 
   <!-- Semana 8 -->
@@ -182,7 +182,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td rowspan="2">12</td>
     <td>21/05</td>
     <td><b>Prova 2</b></td>
-    <td></td>
+    <td><a href="{{ 'assets/homework/lista2.pdf' | relative_url }}">[Lista 2]</a></td>
   </tr>
   <tr>
     <td>23/05</td>
