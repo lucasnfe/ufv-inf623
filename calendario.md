@@ -139,7 +139,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">9</td>
     <td>30/04</td>
-    <td>15. Raciocínio Probabilístico II</td>
+    <td>15. Raciocínio Probabilístico II<br><a href="{{ 'assets/slides/A15-incerteza2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 13.1-13.4</td>
     <td rowspan="2"><a href="{{ site.url }}/assignments/r1-problema">R1: Identificação de problema</a></td>
   </tr>
