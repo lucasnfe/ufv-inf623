@@ -173,7 +173,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>16/05</td>
-    <td>20. Processos de decisão de Markov III</td>
+    <td>20. Processos de decisão de Markov III<br><a href="{{ 'assets/slides/A20-mdp3.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 22.5-22.7</td>
   </tr>  
 
