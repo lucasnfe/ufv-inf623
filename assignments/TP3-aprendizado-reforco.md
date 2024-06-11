@@ -101,7 +101,7 @@ Após concluir a implementação do seu agente, você irá analisar o seu desemp
 Para analisar o desempenho do seu agente, deixe ele executar até o final dos `8192` episódios para cada uma das configurações de parâmetros a seguir:
 
 - `Epsilon (Max): 1`, `Epsilon (Min): 0.001`, `Lambda: 0.001` (configuração inicial)
-- `Epsilon (Max): 1`, `Epsilon (Min): 0.001`, `Lambda: 0` (sem epsilon decay)
+- `Epsilon (Max): 0.8`, `Epsilon (Min): 0.001`, `Lambda: 0` (sem epsilon decay)
 - `Epsilon (Max): 0.5`, `Epsilon (Min): 0.001`, `Lambda: 0` (sem epsilon decay)
 
 Ao final de cada experimento, renomeie o arquivo `/results/experiment_results.csv` para que ele não seja sobrescrito. Após a execução dos 3 experimentos, escreva um script em python para plotar os 3 gráficos de pontuação média do agente ao longo dos `8192` episódios, como na figura a seguir:
