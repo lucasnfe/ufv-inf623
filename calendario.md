@@ -131,7 +131,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>25/04</td>
-    <td>14. Raciocínio Probabilístico I<br><a href="{{ 'assets/slides/A14-incerteza1.pdf' | relative_url }}">[slides]</a></td>
+    <td>14. Raciocínio probabilístico I<br><a href="{{ 'assets/slides/A14-incerteza1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap 12.1-12.5</td>  
   </tr>  
 
@@ -139,13 +139,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">9</td>
     <td>30/04</td>
-    <td>15. Raciocínio Probabilístico II<br><a href="{{ 'assets/slides/A15-incerteza2.pdf' | relative_url }}">[slides]</a></td>
+    <td>15. Raciocínio probabilístico II<br><a href="{{ 'assets/slides/A15-incerteza2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 13.1-13.4</td>
     <td rowspan="2"><a href="{{ site.url }}/assignments/r1-problema">R1: Identificação de problema</a></td>
   </tr>
   <tr>
     <td>02/05</td>
-    <td>16. Raciocínio Probabilístico III<br><a href="{{ 'assets/slides/A16-incerteza3.pdf' | relative_url }}">[slides]</a></td>
+    <td>16. Raciocínio probabilístico III<br><a href="{{ 'assets/slides/A16-incerteza3.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 14.1-14.5</td>
   </tr>  
 
@@ -153,7 +153,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">10</td>
     <td>07/05</td>
-    <td>17. Raciocínio Probabilístico IV<br><a href="{{ 'assets/slides/A17-incerteza4.pdf' | relative_url }}">[slides]</a></td>
+    <td>17. Raciocínio probabilístico IV<br><a href="{{ 'assets/slides/A17-incerteza4.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 17.3-17.4</td>
     <td rowspan="2">R2: Revisão da literatura</td>
   </tr>
@@ -186,7 +186,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>23/05</td>
-    <td>21. Aprendizado por Reforço I</td>
+    <td>21. Aprendizado por reforço I<br><a href="{{ 'assets/slides/A21-rl1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 19.1-19.4</td>
   </tr>  
 
@@ -194,7 +194,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">13</td>
     <td>28/05</td>
-    <td>22. Aprendizado por Reforço II</td>
+    <td>22. Aprendizado por reforço II<br><a href="{{ 'assets/slides/A22-rl2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 19.1-19.6</td>
   </tr>
   <tr>
@@ -208,12 +208,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">14</td>
     <td>04/06</td>
-    <td>23. Aprendizado de Máquina I</td>
+    <td>23. Aprendizado por reforço III<br><a href="{{ 'assets/slides/A23-rl3.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 19.7.1 - 19.7.4</td>
   </tr>
   <tr>
     <td>06/06</td>
-    <td>24. Aprendizado de Máquina II</td>
+    <td>24. Aprendizado de Máquina I<br><a href="{{ 'assets/slides/A24-ml1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 19.7.5 - 19.7.6</td>
   </tr>  
 
@@ -221,12 +221,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">15</td>
     <td>11/06</td>
-    <td>25. Aprendizado de Máquina III</td>
+    <td>25. Aprendizado de Máquina II<br><a href="{{ 'assets/slides/A25-ml2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cal. 19.8</td>
   </tr>
   <tr>
     <td>13/06</td>
-    <td>26. Aprendizado de Máquina IV</td>
+    <td>26. Aprendizado de Máquina III</td>
     <td>Cap.  21.1-21.2</td>
     <td rowspan="2">R3: Metodologia de pesquisa</td>
   </tr>  
@@ -235,12 +235,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">16</td>
     <td>18/06</td>
-    <td>27. Aprendizado de Máquina V</td>
+    <td>27. Aprendizado de Máquina IV</td>
     <td>Cap. 21.3, 21.6</td>
   </tr>
   <tr>
     <td>20/06</td>
-    <td>28. Aprendizado de Máquina VI</td>
+    <td>28. Aprendizado de Máquina V</td>
     <td>Cap. 21.7</td>
     <td rowspan="3">R4: Introdução do projeto</td>
   </tr>  
