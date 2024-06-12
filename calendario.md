@@ -155,7 +155,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>07/05</td>
     <td>17. Raciocínio probabilístico IV<br><a href="{{ 'assets/slides/A17-incerteza4.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 17.3-17.4</td>
-    <td rowspan="2">R2: Revisão da literatura</td>
+    <td rowspan="10"><a href="{{ site.url }}/assignments/r2-revisao">R2: Revisão da literatura</a></td>
   </tr>
   <tr>
     <td>09/05</td>
@@ -169,7 +169,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>14/05</td>
     <td>19. Processos de decisão de Markov II<br><a href="{{ 'assets/slides/A19-mdp2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 22.1-22.4</td>
-    <td rowspan="5">TP3: Aprendizado por reforço</td>
   </tr>
   <tr>
     <td>16/05</td>
@@ -187,7 +186,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td>23/05</td>
     <td>21. Aprendizado por reforço I<br><a href="{{ 'assets/slides/A21-rl1.pdf' | relative_url }}">[slides]</a></td>
-    <td>Cap. 19.1-19.4</td>
+    <td>Cap. 19.1-19.4</td> 
   </tr>  
 
   <!-- Semana 14 -->
@@ -201,7 +200,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>30/05</td>
     <td><b>Feriado (Corpus Christi)</b></td>
     <td></td>
-    <td rowspan="4">TP4: Aprendizado de máquina</td>
   </tr>  
 
   <!-- Semana 15 -->
@@ -213,7 +211,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>06/06</td>
-    <td>24. Aprendizado de Máquina I<br><a href="{{ 'assets/slides/A24-ml1.pdf' | relative_url }}">[slides]</a></td>
+    <td>24. Aprendizado supervisionado I<br><a href="{{ 'assets/slides/A24-ml1.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 19.7.5 - 19.7.6</td>
   </tr>  
 
@@ -221,36 +219,36 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">15</td>
     <td>11/06</td>
-    <td>25. Aprendizado de Máquina II<br><a href="{{ 'assets/slides/A25-ml2.pdf' | relative_url }}">[slides]</a></td>
+    <td>25. Aprendizado supervisionado II<br><a href="{{ 'assets/slides/A25-ml2.pdf' | relative_url }}">[slides]</a></td>
     <td>Cal. 19.8</td>
+    <td rowspan="4"><a href="{{ site.url }}/assignments/tp3-aprendizado-reforco">TP3: Aprendizado por reforço</a></td>
   </tr>
   <tr>
     <td>13/06</td>
-    <td>26. Aprendizado de Máquina III</td>
+    <td>26. Aprendizado supervisionado III</td>
     <td>Cap.  21.1-21.2</td>
-    <td rowspan="2">R3: Metodologia de pesquisa</td>
   </tr>  
 
   <!-- Semana 17 -->
   <tr>
     <td rowspan="2">16</td>
     <td>18/06</td>
-    <td>27. Aprendizado de Máquina IV</td>
+    <td>27. Aprendizado supervisionado IV</td>
     <td>Cap. 21.3, 21.6</td>
   </tr>
   <tr>
     <td>20/06</td>
-    <td>28. Aprendizado de Máquina V</td>
+    <td>28. Aprendizado supervisionado V</td>
     <td>Cap. 21.7</td>
-    <td rowspan="3">R4: Introdução do projeto</td>
   </tr>  
 
   <!-- Semana 18 -->
   <tr>
     <td rowspan="2">17</td>
     <td>25/06</td>
-    <td><b>Prova 3</b></td>
-    <td></td>
+    <td>29. Aprendizado supervisionado VI</td>
+    <td>Cap. 21.9</td>
+    <td rowspan="2">R3: Proposta de metodologia</td>
   </tr>
   <tr>
     <td>27/06</td>

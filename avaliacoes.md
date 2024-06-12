@@ -13,7 +13,7 @@ As provas são não-cumulativas (i.e., os conteúdos não tem sobreposição) e 
 
 - P1: Aulas 1-10
 - P2: Aulas 11-20
-- P3: Aulas 21-28
+- ~~P3: Aulas 21-28~~
 
 ## Trabalhos práticos (40%)
 
@@ -30,6 +30,6 @@ Escrita de um projeto de pesquisa com contribuições que avancem o estado da ar
 
 - [R1: Identificação de problema](/assignments/r1-problema)
 - [R2: Revisão da literatura](/assignments/r2-revisao)
-- R3: Proposta de metodologia 
-- R4: Introdução do projeto
+- R3: Metodologia 
+- R4: Apresentação do projeto
 
