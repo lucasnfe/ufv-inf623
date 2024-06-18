@@ -7,6 +7,8 @@ nav_exclude: true
 
 # TP3 - Aprendizado por reforço
 
+<img src="/assets/images/tp3/demo.gif" width="800"/>
+
 ## Introdução
 
 Nesse projeto você irá implementar o algoritmo de q-learning tabular para criar um agente infeligente que aprende a jogar o Snake. Para isso, você irá utilizar o algoritmo epsilon-greedy para escolher ações durante o aprendizado. O objetivo deste projeto é praticar a modelagem e a implementação de algoritmos de aprendizado por reforço, bem como analisar os resultados desse tipo de algoritmo, em particular o impacto dos parâmetros do algoritmo no desempenho do agente.
@@ -96,7 +98,7 @@ Sua última tarefa é implementar a função de recompensas `reward_function(lev
 
 ### 6. Experimentos
 
-Após concluir a implementação do seu agente, você irá analisar o seu desempenho com relação ao valores de `epsilon`. Quando você clicar no botão `Iniciar`, o cliente javascript já irá executar uma série de experimentos para você. Ele está configurado para jogar 30 partidas após as os seguintes números de episódios: `[16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192]`. Ao final de cada série de 30 partidas, os resultados das mesmas são enviados automaticamente ao servidor e armazenados em um arquivo `/results/experiment_results.csv`. Você também pode clicar no botão `Salvar` se quiser salvar esses resultados durante qualquer momento do treinamento. 
+Após concluir a implementação do seu agente, você irá analisar o seu desempenho no mapa `mapa1_aberto` com relação ao valores de `epsilon`. Quando você clicar no botão `Iniciar`, o cliente javascript já irá executar uma série de experimentos para você. Ele está configurado para jogar 30 partidas após as os seguintes números de episódios: `[16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192]`. Ao final de cada série de 30 partidas, os resultados das mesmas são enviados automaticamente ao servidor e armazenados em um arquivo `/results/experiment_results.csv`. Você também pode clicar no botão `Salvar` se quiser salvar esses resultados durante qualquer momento do treinamento. 
 
 Para analisar o desempenho do seu agente, deixe ele executar até o final dos `8192` episódios para cada uma das configurações de parâmetros a seguir:
 

@@ -219,13 +219,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">15</td>
     <td>11/06</td>
-    <td>25. Aprendizado supervisionado II<br><a href="{{ 'assets/slides/A25-ml2.pdf' | relative_url }}">[slides]</a><a href="{{ 'https://colab.research.google.com/drive/1EDFQ4FTYVTx2XW4iz6FHcO_GCYy2aoUg?usp=sharing' | relative_url }}">[colab]</a></td>
+    <td>25. Aprendizado supervisionado II<br><a href="{{ 'assets/slides/A25-ml2.pdf' | relative_url }}">[slides]</a><br><a href="{{ 'https://colab.research.google.com/drive/1EDFQ4FTYVTx2XW4iz6FHcO_GCYy2aoUg?usp=sharing' | relative_url }}">[colab]</a></td>
     <td>Cal. 19.8</td>
     <td rowspan="4"><a href="{{ site.url }}/assignments/tp3-aprendizado-reforco">TP3: Aprendizado por reforço</a></td>
   </tr>
   <tr>
     <td>13/06</td>
-    <td>26. Aprendizado supervisionado III<br><a href="{{ 'assets/slides/A26-ml3.pdf' | relative_url }}">[slides]</a><a href="{{ 'https://colab.research.google.com/drive/1Osf18leU7bW0lCDUfyPTqy3Xr_68iviV?usp=sharing' | relative_url }}">[colab 1]</a><a href="{{ 'https://colab.research.google.com/drive/1hC680xDkpO34eXwkhC9xtumpvRozKiiz?usp=sharing' | relative_url }}">[colab 2]</a></td>
+    <td>26. Aprendizado supervisionado III<br><a href="{{ 'assets/slides/A26-ml3.pdf' | relative_url }}">[slides]</a><br><a href="{{ 'https://colab.research.google.com/drive/1Osf18leU7bW0lCDUfyPTqy3Xr_68iviV?usp=sharing' | relative_url }}">[colab 1]</a><br><a href="{{ 'https://colab.research.google.com/drive/1hC680xDkpO34eXwkhC9xtumpvRozKiiz?usp=sharing' | relative_url }}">[colab 2]</a></td>
     <td>Cap.  21.1-21.2</td>
   </tr>  
 
