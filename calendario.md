@@ -219,7 +219,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">15</td>
     <td>11/06</td>
-    <td>25. Aprendizado supervisionado II<br><a href="{{ 'assets/slides/A25-ml2.pdf' | relative_url }}">[slides]</a></td>
+    <td>25. Aprendizado supervisionado II<br><a href="{{ 'assets/slides/A25-ml2.pdf' | relative_url }}">[slides]</a><a href="{{ 'https://colab.research.google.com/drive/1EDFQ4FTYVTx2XW4iz6FHcO_GCYy2aoUg?usp=sharing' | relative_url }}">[colab]</a></td>
     <td>Cal. 19.8</td>
     <td rowspan="4"><a href="{{ site.url }}/assignments/tp3-aprendizado-reforco">TP3: Aprendizado por reforço</a></td>
   </tr>
