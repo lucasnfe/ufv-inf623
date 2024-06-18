@@ -225,7 +225,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   </tr>
   <tr>
     <td>13/06</td>
-    <td>26. Aprendizado supervisionado III</td>
+    <td>26. Aprendizado supervisionado III<br><a href="{{ 'assets/slides/A26-ml3.pdf' | relative_url }}">[slides]</a><a href="{{ 'https://colab.research.google.com/drive/1Osf18leU7bW0lCDUfyPTqy3Xr_68iviV?usp=sharing' | relative_url }}">[colab 1]</a><a href="{{ 'https://colab.research.google.com/drive/1hC680xDkpO34eXwkhC9xtumpvRozKiiz?usp=sharing' | relative_url }}">[colab 2]</a></td>
     <td>Cap.  21.1-21.2</td>
   </tr>  
 
