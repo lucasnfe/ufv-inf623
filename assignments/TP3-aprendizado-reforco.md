@@ -108,7 +108,7 @@ Para analisar o desempenho do seu agente, deixe ele executar até o final dos `8
 
 Ao final de cada experimento, renomeie o arquivo `/results/experiment_results.csv` para que ele não seja sobrescrito. Após a execução dos 3 experimentos, escreva um script em python para plotar os 3 gráficos de pontuação média do agente ao longo dos `8192` episódios, como na figura a seguir:
 
-<img src="/assets/images/tp3/results.png" width="600"/>
+<img src="/assets/images/tp3/results.png" width="400"/>
 
 ### 7. Customização nos estados
 
