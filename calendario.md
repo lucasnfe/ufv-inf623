@@ -233,7 +233,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
   <tr>
     <td rowspan="2">16</td>
     <td>18/06</td>
-    <td>27. Aprendizado supervisionado IV</td>
+    <td>27. Aprendizado supervisionado IV<br><a href="{{ 'assets/slides/A27-ml4.pdf' | relative_url }}">[slides]</a></td>
     <td>Cap. 21.3, 21.6</td>
   </tr>
   <tr>
