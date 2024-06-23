@@ -30,6 +30,6 @@ Escrita de um projeto de pesquisa com contribuições que avancem o estado da ar
 
 - [R1: Identificação de problema](/assignments/r1-problema)
 - [R2: Revisão da literatura](/assignments/r2-revisao)
-- R3: Metodologia 
+- [R3: Texto final](/assignments/r3-final)
 - R4: Apresentação do projeto
 

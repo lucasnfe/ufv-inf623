@@ -248,7 +248,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 10/2023]](https://r
     <td>25/06</td>
     <td>29. Aprendizado supervisionado VI</td>
     <td>Cap. 21.9</td>
-    <td rowspan="2">R3: Proposta de metodologia</td>
+    <td rowspan="2"><a href="{{ site.url }}/assignments/r3-final">R3: Texto final</a></td>
   </tr>
   <tr>
     <td>27/06</td>
