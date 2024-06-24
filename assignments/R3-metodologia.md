@@ -51,6 +51,7 @@ Essa seção apresenta o novo método que pretende desenvolver, detalhando tanto
 ### 4. Objetivos (~1 página)
 
 Apesar de a Introdução já ter apresentado o objetivo geral da sua proposta, é importante ter uma seção específica para discutir seus objetivos, pois isso ajuda os revisores a encontrarem essa informação no seu documento. Nessa seção, você deve detalhar o seu objetivo geral e apresentar seus objetivos específicos, que costumam ser derivados da metodologia escolhida para testar a hipótese. 
+Reutilize o texto escrito na etapa [R1: proposta de problema](/assignments/r1-problema) para escrever a versão final dessa seção.
 
 <!-- Por exemplo, se você está propondo uma rede neural convolucional para navegação de carros autônomos em Viçosa, e sua hipótese é de que os modelos atuais não contemplam as condições das ruas e o trânsito da cidade, seus objetivos específicos podem ser:
 
@@ -59,7 +60,6 @@ Apesar de a Introdução já ter apresentado o objetivo geral da sua proposta, �
 - Coletar imagens das ruas e do trânsito de Viçosa,
 - Rotular as imagens coletadas, identificando entidades de interesse (e.g., pessoas, animais, veículos, etc.). -->
 
-Reutilize o texto escrito na etapa [R1: proposta de problema](/assignments/r1-problema) para escrever a versão final dessa seção.
 
 ### 5. Calendário (~2 páginas)
 
