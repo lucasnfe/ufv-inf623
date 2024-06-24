@@ -61,7 +61,7 @@ Reutilize o texto escrito na etapa [R1: proposta de problema](/assignments/r1-pr
 - Rotular as imagens coletadas, identificando entidades de interesse (e.g., pessoas, animais, veículos, etc.). -->
 
 
-### 5. Calendário (~2 páginas)
+### 5. Cronograma (~2 páginas)
 
 A seção de cronograma apresenta um plano detalhado das atividades a serem realizadas ao longo do estudo, organizadas em uma linha do tempo clara e estruturada. Ela inclui uma tabela de atividades que lista todas as tarefas específicas, como revisão de literatura, coleta de dados, desenvolvimento e treinamento de modelos, validação e análise de resultados, redação de relatórios e preparação de publicações. Cada atividade é associada a datas de início e término, ajudando a garantir que o projeto avance de maneira ordenada e dentro dos prazos estabelecidos. Além disso, o cronograma identifica marcos importantes, como fases de revisão ou apresentações intermediárias, que servem como pontos de controle para monitorar o progresso e fazer ajustes necessários ao planejamento original.
 
