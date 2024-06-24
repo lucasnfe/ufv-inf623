@@ -57,7 +57,7 @@ Elabore um conjunto de slides para apresentar em até **10 minutos** o conteúdo
 
 ## Submissão
 
-Para enviar o seu trabalho, submeta um arquivo `apresentacao.pdf` contendo a sua apresentação na tarefa **R4 - Apresentação** no PVANet.
+Para enviar o seu trabalho, submeta um arquivo `apresentacao.pdf` contendo a sua apresentação na tarefa **R4 - Apresentação** no PVANet. **Esse arquivo será utilizado apenas para correção. No dia da apresentação, você pode trazer o seu próprio laptop ou me enviar o link para os seus slides.**
 
 ## Referências
 
