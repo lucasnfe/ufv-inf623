@@ -22,7 +22,7 @@ Implementação individual em Python de algoritmos de inteligência artificial p
 - [TP1: Busca no espaço de estados](/assignments/tp1-busca)
 - [TP2: Busca local](/assignments/tp2-busca-local)
 - [TP3: Aprendizado por reforço](/assignments/tp3-aprendizado-reforco)
-- [TP4: Aprendizado de máquina](/assignments/tp4-aprendizado-supervisionado)
+- [TP4: Aprendizado supervisionado](/assignments/tp4-aprendizado-supervisionado)
 
 ## Projeto de pesquisa (30%)
 
