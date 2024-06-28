@@ -202,7 +202,9 @@ acc: 0.5
 
 ### 7. Relatório
 
-Nesse trabalho prático você não precisa enviar um relatório, no entanto, você precisará enviar dois gráficos, um com a curva de erro e o outro com a curva de acurácia da sua RNA. Escolha hiperparâmetros (número de épocas, taxa de aprendizado e número de neurônios na camada escondida) que maximize a acurácia de tesde da rede. Para gerar os gráficos, execute o script `plot.py`, que irá produzir as curvas utilizando os dados dos arquivos `model/losses.csv` e `model/accuracies.csv`.
+Nesse trabalho prático você não precisa enviar um relatório, no entanto, você precisará enviar dois gráficos, um com a curva de erro e o outro com a curva de acurácia da sua RNA. Para gerar os gráficos, execute o script `plot.py`, que irá produzir as curvas utilizando os dados dos arquivos `model/losses.csv` e `model/accuracies.csv`.
+
+Escolha hiperparâmetros (número de épocas, taxa de aprendizado e número de neurônios na camada escondida) que maximizem a acurácia de teste da RNA. Sua acurácia de teste deve ser de no mínimo 80%.
 
 ## Submissão
 
