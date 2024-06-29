@@ -33,7 +33,7 @@ Todas as suas tarefas de implementação serão realizadas no arquivo `learn.py`
 Implemente a função `initialize_parameters(input_size, hidden_size, output_size)` para inicializar os parâmetros (pesos) da RNA. Os parâmetros `input_size, hidden_size, output_size` representam o número de neurônios nas camadas de entrada, encondida e de saída, respectivamente. Como o MNIST tem dígitos de 0 a 9, temos um problema de classificação multiclasse com `C=10` classes. Sendo assim, o número de neurônios da camada de saída será `output_size = 10`. Além disso, como as imagens de entrada tem 28x28 pixels de resolução, o número de neurônios na camada de entrada será `input_size = 28x28 = 784`.
 A número de neurônios da camada escondida é um hiperparâmetro configurado no cliente no campo de entrada `Neurônios (camada escondida)`.
 
-Essa função deve retornar uma tupla (tuple) com quatro arranjos numpy: `(W1, b1, W2, b2)`, onde `W1, b1` são os pesos da primeira camada e `W2, b2` os pesos da segunda. Lembre-se que em RNAs precisamos inicializar os pesos `W` com valores aleatórios próximos de zero. Os pesos `b` podem ser inicializados com zero, sem problemas. Portanto, utilize a função `np.random.randn` do numpy para inicializar os pesos `W` e a função `np.zeros` para os pesos `b`. O tamanho das matrizes `W1` e `W2` devem ser `input_size x hidden_size` e `hidden_size x output_size`, respectivamente. O tamanho dos vetores `b1` e `b2` devem ser `1 x hidden_size` e `1 x output_size`, respectivamente.
+Essa função deve retornar uma tupla com quatro arranjos numpy: `(W1, b1, W2, b2)`, onde `W1, b1` são os pesos da primeira camada e `W2, b2` os pesos da segunda. Lembre-se que em RNAs precisamos inicializar os pesos `W` com valores aleatórios próximos de zero. Os pesos `b` podem ser inicializados com zero, sem problemas. Portanto, utilize a função `np.random.randn` do numpy para inicializar os pesos `W` e a função `np.zeros` para os pesos `b`. O tamanho das matrizes `W1` e `W2` devem ser `input_size x hidden_size` e `hidden_size x output_size`, respectivamente. O tamanho dos vetores `b1` e `b2` devem ser `1 x hidden_size` e `1 x output_size`, respectivamente. Como os pesos `W` devem ser inicializados próximos de zero, multiplique o resultado da função `np.random.randn` por `0.01`.
 
 #### Resultados esperados
 
@@ -74,9 +74,13 @@ Antes de implementar a propagação das entradas, você precisa implementar as f
 
 Implemente a função `relu(z)` com a ativação relu, como visto em sala de aula:
 
+<img src="/assets/images/tp4/relu.png" width="400"/>
+
 #### 2.2 Softmax
 
 Implemente a função `softmax(z)` com a ativação softmax para , como visto em sala de aula:
+
+<img src="/assets/images/tp4/softmax.png" width="200"/>
 
 #### Resultados esperados
 ```
@@ -125,6 +129,8 @@ A2: (2, 10)
 ### 4. Função de perda
 
 Implemente a função `cross_entropy_loss(y_true, y_pred)` para calcular a entropia cruzada entre a distribuição real de rótumos `y_true` e as previsões da RNA `y_pred`. Como visto em sala de aula, a função de perda é definida da seguinte maneira:
+
+<img src="/assets/images/tp4/cross-entropy.png" width="300"/>
 
 Utilize a função `np.log` para calcular o logarítmo e `np.sum` para o somatório.
 
@@ -204,7 +210,10 @@ acc: 0.5
 
 Nesse trabalho prático você não precisa enviar um relatório, no entanto, você precisará enviar dois gráficos, um com a curva de erro e o outro com a curva de acurácia da sua RNA. Para gerar os gráficos, execute o script `plot.py`, que irá produzir as curvas utilizando os dados dos arquivos `model/losses.csv` e `model/accuracies.csv`.
 
-Escolha hiperparâmetros (número de épocas, taxa de aprendizado e número de neurônios na camada escondida) que maximizem a acurácia de teste da RNA. Sua acurácia de teste deve ser de no mínimo 80%.
+Escolha hiperparâmetros (número de épocas, taxa de aprendizado e número de neurônios na camada escondida) que maximizem a acurácia de teste da RNA. Sua acurácia de teste deve ser de no mínimo 80%. As figuras a seguir mostram exemplos de como os seus gráficos devem ficar:
+
+<img src="/assets/images/tp4/losses.png" width="350"/>
+<img src="/assets/images/tp4/accuracies.png" width="350"/>
 
 ## Submissão
 
