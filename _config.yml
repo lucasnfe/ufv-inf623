@@ -18,7 +18,7 @@ tagline: Inteligência Artificial
 description: Sejam bem-vindos à INF623 - Inteligência Artificial!
 author: Lucas N. Ferreira
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://ufv-inf623.lucasnferreira.com' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://lucasnfe.github.io/ufv-inf623/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
